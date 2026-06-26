@@ -1,0 +1,4 @@
+Book ID: BK001 | Title: Introduction to Machine Learning | Author: Ethem Alpaydin | Location: Shelf A-3 | Status: Available
+Book ID: BK002 | Title: Natural Language Processing in Action | Author: Lane, Howard, Hobson | Location: Shelf B-1 | Status: 2 copies loaned
+Book ID: BK003 | Title: Designing Data-Intensive Applications | Author: Martin Kleppmann | Location: Shelf C-2 | Status: Available
+Book ID: BK004 | Title: Clean Code | Author: Robert C. Martin | Location: Shelf D-1 | Status: Available

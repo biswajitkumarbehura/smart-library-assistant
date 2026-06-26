@@ -1,0 +1,3 @@
+book_id,genre_encoded,month,is_exam_season,past_30_day_loans,demand_copies_needed
+BK001,1,9,1,15,5
+BK001,1,10,0,5,2
